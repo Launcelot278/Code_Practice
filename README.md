@@ -1,2 +1,2 @@
-# Code_Pratice
+# Code_Practice
 Do some practice
